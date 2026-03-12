@@ -19,3 +19,4 @@ Analice @GIT diff y genere un mensaje de commit en el repositorio.
 
 ## Restricciones:
     - No me preguntes para ejecutar esta acción por terminal.
+    - haz tambien el git push a origin main.
