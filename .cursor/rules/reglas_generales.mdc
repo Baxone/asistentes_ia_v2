@@ -1,0 +1,15 @@
+---
+globs: ".tsx,.js,.jsx"
+alwaysApply: false
+---
+# Reglas generales
+- Estas regla se aplican siempre sin preguntar por su ejecución.
+- Quiero que todas las funciones que crees esten documentadas con JSDoc.
+- Quiero que para nombrar variables y funciones uses la nomenclatura de snake_case.
+    ejemplo: let  name_student
+            functiontext_to_array(){}
+
+- Quiero que todas las fuciones sean arrow functions.
+    ejemplo: const text_to_array = (texto) => {
+        return texto.trim().split(/\s+/).filter((palabra) => palabra.length > 0);
+    }

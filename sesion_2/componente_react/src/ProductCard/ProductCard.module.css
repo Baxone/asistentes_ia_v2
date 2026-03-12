@@ -1,0 +1,31 @@
+.card {
+  @apply rounded-lg border border-gray-200 bg-white shadow-md overflow-hidden transition-shadow hover:shadow-lg;
+}
+
+.imageWrapper {
+  @apply aspect-square w-full overflow-hidden bg-gray-100;
+}
+
+.image {
+  @apply h-full w-full object-cover;
+}
+
+.content {
+  @apply p-4;
+}
+
+.category {
+  @apply text-xs font-medium uppercase tracking-wider text-amber-600 mb-1;
+}
+
+.name {
+  @apply text-lg font-semibold text-gray-900 mb-2;
+}
+
+.price {
+  @apply text-xl font-bold text-gray-900 mb-4;
+}
+
+.button {
+  @apply w-full rounded-md bg-amber-500 px-4 py-2 font-medium text-white transition-colors hover:bg-amber-600 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2;
+}
