@@ -1,0 +1,14 @@
+{
+  "name": "agente_osquestador",
+  "version": "1.0.0",
+  "description": "Agente osquestador con funciones y tests",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": ["**/funciones.js"]
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

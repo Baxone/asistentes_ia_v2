@@ -1,0 +1,1 @@
+cuando lance este comando, debes documentar la funcion seleccionada como esta marcado en el fichero de reglas de reglas_generales.mdc
