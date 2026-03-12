@@ -23,3 +23,7 @@ FRAMEWORK DE CONTEXTO
     - A (Audiencia): Mantenedores (“Código apto para producción/juniors”)
     - R (Respuesta): Formato (“Bloque de markdown único”)
     - D (Datos): Interfaces de entrada (“Usa la siguiente interfaz…”)
+
+
+
+
