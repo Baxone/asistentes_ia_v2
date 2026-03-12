@@ -1,6 +1,7 @@
 ---
 globs: ".tsx,.js,.jsx"
 alwaysApply: false
+Description: "Reglas generales para todo el proyecto en el que me encuentro trabajando."
 ---
 # Reglas generales
 - Estas regla se aplican siempre sin preguntar por su ejecución.
