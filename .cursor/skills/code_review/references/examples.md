@@ -1,0 +1,1 @@
+- Quiero que realizas api siguiendo el patron Ruta, modelo, controlador, servicio, repositorio.
